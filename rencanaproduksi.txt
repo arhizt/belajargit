@@ -2,6 +2,5 @@ Rencana Produksi Arhizt:
 - Belajar Pemrograman HTML
 - Desain Grafis dengan Photoshop
 - Menguasai Java dan Javascript
-- Teknik Menggunakan Coreldraw
 - Artificial Intelligence menggunakan Python
 - Desain dengan Procreate 
