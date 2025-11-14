@@ -2,3 +2,4 @@ Ide-ide yang bisa direalisasikan :
 - Buku tentang ilmu roket
 - Buku tentang hacking
 - Buku tentang ilmu astronomi
+- Buku tentang kuliner
